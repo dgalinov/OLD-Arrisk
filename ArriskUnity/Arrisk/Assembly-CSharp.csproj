@@ -53,9 +53,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\EnemyMovement.cs" />
-     <Compile Include="Assets\Scripts\Joystick.cs" />
-     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+     <Compile Include="Assets\EnemyMovement.cs" />
+     <Compile Include="Assets\IAEnemy.cs" />
+     <Compile Include="Assets\MainMenu.cs" />
+     <Compile Include="Assets\PlayerMovement.cs" />
+     <Compile Include="Assets\Scripts\Joystick_2.cs" />
+     <Compile Include="Assets\Virtual Joystick Pack\Examples\2D Example\Player2DExample.cs" />
+     <Compile Include="Assets\Virtual Joystick Pack\Examples\3D Example\Player3DExample.cs" />
+     <Compile Include="Assets\Virtual Joystick Pack\Scripts\Base\Joystick.cs" />
+     <Compile Include="Assets\Virtual Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
+     <Compile Include="Assets\Virtual Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
+     <Compile Include="Assets\Virtual Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
  <Reference Include="Cinemachine">
  <HintPath>/home/dragomir/Documentos/Salle_Gracia/Arrisk/ArriskUnity/Arrisk/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
  </Reference>
