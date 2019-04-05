@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E87981A5-E6DA-B97D-8D47-101C728F92DE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Mario1Controller2DScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Joystick_2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/IAEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemyMovement.cs" Line="20" Column="6" />
+      <File FileName="Assets/Scripts/Mario1Controller2DScript.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Arrisk" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Mario1Controller2DScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,20 +1,16 @@
-Base path: /home/dragomir/Unity/Hub/Editor/2018.3.3f1/Editor/Data
+Base path: /Applications/Unity/Unity.app/Contents
+Cmd: initializeCompiler
+Cmd: translateComputeKernel
+  api=14 insize=1137 outsize=1413 ok=1
 Cmd: initializeCompiler
 Cmd: compileComputeKernel
-  api=15 insize=1957 outsize=1469 ok=1
+  api=9 insize=1897 outsize=1153 ok=1
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: compileComputeKernel
-  api=15 insize=1957 outsize=3309 ok=1
 Cmd: initializeCompiler
 
 Quitting shader compiler process
